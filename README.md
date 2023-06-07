@@ -4,7 +4,7 @@
 
 The Magic Ball Application is a mobile app developed using Flutter and Dart programming languages in Android Studio. It provides users with an interactive and fun experience of receiving random answers to their questions by pressing a virtual magic ball.
 
-![Magic Ball](images/MagicBall_Screenshot.jpg)
+![Magic Ball](images/MagicBall_Screenshot.jpeg)
 
 ## Features
 
